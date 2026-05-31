@@ -1,0 +1,6 @@
+groq
+pyautogui
+pyperclip
+keyboard
+python-dotenv
+pillow

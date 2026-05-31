@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+chat_history.txt
+reply_log.txt
